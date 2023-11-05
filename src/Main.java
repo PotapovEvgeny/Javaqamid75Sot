@@ -14,10 +14,9 @@ public class Main {
         }
 
 
-
-    int balance = score + depositAccount + bonus;
+        int balance = score + depositAccount + bonus;
 
         System.out.println(" Итоговый счет: " + balance + " рублей. ");
         System.out.println(" Ваш бонус: " + bonus + " рублей. ");
-}
+    }
 }
